@@ -1,0 +1,4 @@
+interface:
+  display_name: "TexPdf2Word"
+  short_description: "Adaptive LaTeX/PDF/Markdown to Word template conversion"
+  default_prompt: "Use $texpdf2word to convert my LaTeX, PDF, or Markdown source into a complete Word document matching my uploaded .docx template. Inspect the template, protect native cover/declaration pages from global formatting, write a project-specific pipeline, and iterate after automated plus PDF-preview QA; do not just run the starter pipeline unchanged."
